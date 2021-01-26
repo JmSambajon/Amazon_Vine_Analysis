@@ -1,9 +1,8 @@
 # Amazon_Vine_Analysis
-This project analyzes Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.
 
-PySpark will be used to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Then PySPark will be used to determine if there is any bias toward favorable reviews.
+The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. In this project, we will analyze Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.
 
-The data used was US reviews for sports.
+In this project, I have access to approximately 50 datasets. Each one contains reviews of a specific product, from clothing apparel to wireless products. I will be focusing on US reviews for sports items. PySpark will be used to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, I'll use PySpark to determine if there is any bias toward favorable reviews from Vine members in your dataset.
 
 
 ## Results
