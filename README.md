@@ -7,7 +7,7 @@ In this project, I have access to approximately 50 datasets. Each one contains r
 
 ## Results
 
-How many Vine reviews and non-Vine reviews were there?
+### How many Vine reviews and non-Vine reviews were there?
 
 There were 334 Vine reviews. Please see the picture below:
 
@@ -17,7 +17,7 @@ There were 334 Vine reviews. Please see the picture below:
 
 ![Nonvine_reviews](pictures/Nonvine_reviews.png)
 
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 There were 139 Vine 5 star reviews. Please see the picture below:
 
@@ -27,7 +27,7 @@ There were 32665 Non-Vine 5 star reviews. Please see the picture below:
 
 ![Nonvine_5](pictures/Nonvine_5s.png)
 
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 The percentage of 5 star Vine reviews is 41.62%. Please see the picture below:
 
